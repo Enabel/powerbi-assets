@@ -20,3 +20,6 @@
 
 ## testimage:
 ![test](Photo_gc_test.png)
+
+## test2 :
+![test](GC_Climate_photo.PNG)
