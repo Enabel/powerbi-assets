@@ -18,3 +18,5 @@
 ## Global citizenship:
 ![Global citizenship](GlobalCitizenship.png)
 
+## testimage:
+![test](Photo_gc_test.png)
